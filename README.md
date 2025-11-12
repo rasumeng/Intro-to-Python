@@ -33,7 +33,7 @@ By the end of this course, you’ll be able to:
 
 ### Option 1: Run Online (Recommended)
 Click below to run this course directly in your browser:
-👉 [Launch on Binder](https://mybinder.org/v2/gh/your-username/learn-python-with-notebooks/HEAD)
+👉 [Launch on Binder](https://mybinder.org/v2/gh/rasumeng/learn-python-with-notebooks/HEAD)
 
 ### Option 2: Run Locally
 1. Clone the repository:
